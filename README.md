@@ -1,7 +1,8 @@
 
 ## Formula 1 Data Analysis
 
-This project is about the Exploratory Data Analysis on Formula 1 data from the year 1960-2020
+As a Formula 1 fan myself, I wanted to do an analysis on the F1 data and this
+project is about the Exploratory Data Analysis on Formula 1 data from the year 1960-2020
 
 ## Roadmap
 
@@ -12,7 +13,7 @@ This project is about the Exploratory Data Analysis on Formula 1 data from the y
 
 ## Summary
 
-* We have statistics of each driver, like
+* Statistics of each driver, like
     - nationality
     - Number of races
     - points
