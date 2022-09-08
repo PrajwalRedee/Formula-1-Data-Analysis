@@ -20,6 +20,7 @@ project is about the Exploratory Data Analysis on Formula 1 data from the year 1
     - Number of Laps
     - Podium
     - Number of wins, poles and titles
+    - 
 ![f1](https://user-images.githubusercontent.com/94665209/189041043-a56603ed-c19a-4025-b543-4c0873373240.PNG)
 
 * A graph that shows the number of races that happened every season from the year 1950
